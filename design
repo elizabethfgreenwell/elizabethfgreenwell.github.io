@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<!--website for DJ's class-->
+<html>
+<body>
+<head>
+<style>
+body {background-color: #F5FFFA;
+	font-family: Garamond, serif;
+  font-size: 25px;
+  line-height: 50px;
+}
+p{
+color:DarkSlateGrey;
+} 
+li{
+color:DarkSlateGrey;
+}
+</style>
+</head>
+<body>
+<!--text and body design--> 
+<h1 style="color:DarkCyan;">Elizabeth Greenwell</h1> <hr/>
+<h2 style="color:DarkSlateGrey;">Welcome to my site ya'll. </h2>
+<p style="color:DarkSlateGrey;"> This is a paragraph. Follow me on the <a href="https://twitter.com/abbie_greenwell">Twitter.</a> </p>
+<ul>
+  <li>Bikes</li>
+  <li>Coffee</li>
+  <li>Beer</li>
+</ul>  
+
+<img src="https://github.com/elizabethfgreenwell/elizabethfgreenwell.github.io/blob/5abe0fdc8bf043eb1b1a4d915be1079bb7d36768/mapforsite.png" width = 100% ></img>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d45196.103605372555!2d2.14542450486906!3d41.4017846843557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sus!4v1631489152703!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+</body>
+</html>
